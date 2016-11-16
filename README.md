@@ -16,5 +16,5 @@ This is the repository for Quantum Mechanics course by Prof. Cai from Wuhan Univ
 
 | Exercise Number |  Title of the Exercise |  Done or Not | Data |  
 |  ----             | :-----------:|:---:            |:-----:|
-| Exercise 1 |  [mid-term Homework: Solving spherical harmonic equation](https://github.com/MQdtc/QuantumMechanics_N2014301510099/blob/master/Homework/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E4%B8%9A.pdf)| Done | 16.11.9 |  
+| Exercise 1 |  [mid-term Homework: Solving spherical harmonic equation](https://github.com/MQdtc/QuantumMechanics_N2014301510099/blob/master/Homework/%E6%9C%9F%E4%B8%AD%E4%BD%9C%E4%B8%9A.pdf)&[Markdown version]()| Done | 16.11.9 |  
 | Exercise 2 |  [Chapter 3： Problem 1 to Problem 10]()| Not yet| 16.11.16 |
