@@ -9,10 +9,10 @@
 ---
 This is the repository for Quantum Mechanics course by Prof. Cai from Wuhan University in the autumn semester of 2016.  
 
-**实际上我可能经常会晚交作业，作业是否做好我会在下面的列表给出，望见谅，谢谢。**  
+**实际上我可能经常会晚交作业，作业是否做好我会在下面的列表给出，望见谅，谢谢。**  
 
 **Homework List   (作业列表)：**   
-
+**如果Github的链接加载不出来请点击Markdown的**
 
 | Exercise Number |  Title of the Exercise |  Done or Not | Data |  
 |  ----             | :-----------:|:---:            |:-----:|
